@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/NataliPele/hexlet-git#readme",
+  "bugs": {
+    "url": "https://github.com/NataliPele/hexlet-git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NataliPele/Hexlet-jest.git"
+  },
+  "license": "ISC",
+  "author": "Natalia",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
